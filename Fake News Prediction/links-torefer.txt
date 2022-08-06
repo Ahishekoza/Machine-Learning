@@ -6,3 +6,7 @@ https://www.geeksforgeeks.org/python-stemming-words-with-nltk/amp/
 
 
 https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
+
+
+
+DataSet Link: https://www.kaggle.com/c/fake-news
