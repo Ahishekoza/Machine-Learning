@@ -1,0 +1,8 @@
+Through this link you can get more information related to nlkt.stem and stopwords
+
+
+https://www.geeksforgeeks.org/python-stemming-words-with-nltk/amp/
+
+
+
+https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
