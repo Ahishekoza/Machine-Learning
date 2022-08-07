@@ -1,0 +1,6 @@
+Data-Set-link:https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india
+
+CFR:https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19
+
+
+https://stackoverflow.com/questions/62122015/how-to-add-traces-in-plotly-express
