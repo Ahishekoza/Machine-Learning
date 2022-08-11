@@ -1,0 +1,19 @@
+Dataset:https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+
+
+link-for-ploty-visulization:https://plotly.com/python/
+
+links-to-understand-the-data-from-business-point-of-view:
+https://www.nami.org/mhstats
+
+mental health:
+https://mhanational.org/blog/mental-health-benefits-remote-and-flexible-work
+
+seek_help : https://www.linkedin.com/business/talent/blog/talent-engagement/ways-companies-support-mental-health-and-prevent-burnout
+
+leave :
+https://www.glassdoor.com/blog/guide/mental-health-leave-of-absence/
+
+
+model-optimization-link:
+https://www.davidsbatista.net/blog/2018/02/23/model_optimization/
