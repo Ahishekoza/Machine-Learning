@@ -1,0 +1,23 @@
+
+500:internal server error while trying to open python notebook on JupyterHub: Use 
+
+Step 1- Open Anaconda prompt from windows.
+Step 2- run ‘conda update --all’
+step 3 - Y
+Step 4- wait for packages to update
+Step 5- Enjoy
+
+conda install -c conda-forge pandoc
+
+​label encoding gives labels priority in ascending order, it will be bias
+
+
+Use:pip install dtale : to install dtale library
+
+Use:pip install pandas-profiling
+
+if there is :
+TypeError: <class 'numpy.typing._dtype_like._SupportsDType'> is not a generic class]
+
+then install:
+pip install xarray==0.20.2
