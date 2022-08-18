@@ -1,0 +1,4 @@
+Dataset Link:https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction
+
+
+53% of college students plan to leave their current job after graduation::https://www.techrepublic.com/article/53-of-college-students-plan-to-leave-their-current-job-after-graduation/
